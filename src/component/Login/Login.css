@@ -1,0 +1,17 @@
+.from{
+    background-color: aliceblue;
+    text-align: center;
+    margin: 50px 0px;
+    padding:30px 0px ;
+}
+
+.from input{
+   border: none;
+   padding: 10px;
+   background-color: none;
+   border-bottom: 2px solid #1e7e34;
+}
+
+.from input:focus{
+    outline: none;
+}

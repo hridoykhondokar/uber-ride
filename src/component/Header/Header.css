@@ -1,0 +1,9 @@
+.navbar-brand{
+    font-weight: bold;
+    color:white;
+}
+.item {
+    color: white;
+    padding-right: 40px;
+    font-weight: bold;
+}
